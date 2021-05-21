@@ -1,0 +1,17 @@
+/db-scripts/catalog/clear_data.txt
+/db-scripts/catalog/zen_catalog_partners.txt
+/db-scripts/catalog/zen_catalog_country_restrictions.txt
+/db-scripts/catalog/zen_catalog_category_sets.txt
+/db-scripts/catalog/zen_catalog_publishers.txt
+/db-scripts/catalog/zen_catalog_catalogs.txt
+/db-scripts/catalog/zen_catalog_categories.txt
+/db-scripts/catalog/zen_catalog_publications.txt
+/db-scripts/catalog/zen_catalog_publisher_metadata.txt
+/db-scripts/catalog/zen_catalog_category_translations.txt
+/db-scripts/catalog/zen_catalog_publications_categories.txt
+/db-scripts/catalog/zen_catalog_publication_country_modifiers.txt
+/db-scripts/catalog/zen_catalog_publications_metadata.txt
+/db-scripts/catalog/zen_catalog_issues.txt
+/db-scripts/catalog/zen_catalog_issue_metadata.txt
+/db-scripts/catalog/zen_catalog_publication_reading_modes.txt
+/db-scripts/catalog/zen_catalog_catalogs_publications.txt

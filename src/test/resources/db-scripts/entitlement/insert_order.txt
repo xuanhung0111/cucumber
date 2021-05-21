@@ -1,0 +1,4 @@
+/db-scripts/catalog/clear_data.txt
+/db-scripts/catalog/zen_entitlement_app_entitlements.txt
+/db-scripts/catalog/zen_entitlement_ayce_entitlements.txt
+/db-scripts/catalog/zen_entitlement_issue_entitlements.txt

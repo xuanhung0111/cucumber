@@ -1,0 +1,7 @@
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE zen_newsstand.banners;
+TRUNCATE zen_newsstand.newsstand_countries;
+TRUNCATE zen_newsstand.newsstand_lists;
+TRUNCATE zen_newsstand.newsstand_metadata;
+TRUNCATE zen_newsstand.newsstands;
+SET FOREIGN_KEY_CHECKS = 1;

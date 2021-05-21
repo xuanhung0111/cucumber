@@ -1,0 +1,9 @@
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE zen_console.accounts;
+TRUNCATE zen_console.application_builds;
+TRUNCATE zen_console.application_builds_metadata;
+TRUNCATE zen_console.application_payment_handlers;
+TRUNCATE zen_console.applications;
+TRUNCATE zen_console.contacts;
+TRUNCATE zen_console.projects;
+SET FOREIGN_KEY_CHECKS = 1;

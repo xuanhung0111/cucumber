@@ -1,0 +1,5 @@
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE zen_entitlement.app_entitlements;
+TRUNCATE zen_entitlement.ayce_entitlements;
+TRUNCATE zen_entitlement.issue_entitlements;
+SET FOREIGN_KEY_CHECKS = 1;

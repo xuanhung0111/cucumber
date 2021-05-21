@@ -1,0 +1,8 @@
+/db-scripts/console/clear_data.txt
+/db-scripts/console/zen_console_accounts.txt
+/db-scripts/console/zen_console_application_builds.txt
+/db-scripts/console/zen_console_application_builds_metadata.txt
+/db-scripts/console/zen_console_application_payment_handlers.txt
+/db-scripts/console/zen_console_applications.txt
+/db-scripts/console/zen_console_contacts.txt
+/db-scripts/console/zen_console_projects.txt

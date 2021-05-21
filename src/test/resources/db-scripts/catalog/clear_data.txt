@@ -1,0 +1,18 @@
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE zen_catalog.catalogs_publications;
+TRUNCATE zen_catalog.publication_reading_modes;
+TRUNCATE zen_catalog.issue_metadata;
+TRUNCATE zen_catalog.issues;
+TRUNCATE zen_catalog.publications_metadata;
+TRUNCATE zen_catalog.publication_country_modifiers;
+TRUNCATE zen_catalog.publications_categories;
+TRUNCATE zen_catalog.category_translations;
+TRUNCATE zen_catalog.publisher_metadata;
+TRUNCATE zen_catalog.publications;
+TRUNCATE zen_catalog.categories;
+TRUNCATE zen_catalog.catalogs;
+TRUNCATE zen_catalog.publishers;
+TRUNCATE zen_catalog.category_sets;
+TRUNCATE zen_catalog.country_restrictions;
+TRUNCATE zen_catalog.partners;
+SET FOREIGN_KEY_CHECKS = 1;

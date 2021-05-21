@@ -1,0 +1,6 @@
+/db-scripts/newsstand/clear_data.txt;
+/db-scripts/newsstand/zen_newsstand_banners.txt;
+/db-scripts/newsstand/zen_newsstand_newsstand_countries.txt;
+/db-scripts/newsstand/zen_newsstand_newsstand_lists.txt;
+/db-scripts/newsstand/zen_newsstand_newsstand_metadata.txt;
+/db-scripts/newsstand/zen_newsstand_newsstands.txt;
